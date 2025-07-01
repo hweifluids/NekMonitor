@@ -9,3 +9,8 @@ Monitor the following terms:
 3. CFL, the Courant-Friedrichs-Lewy condition factor (or say, Courant number)
 4. Total CPU wall time
 5. CPU wall time for current step
+
+I will add tolerance monitor, condition monitor, bash executer (directly run genbox, genmap, makechan, nekbmpi, etc. from GUI) in a few days.
+
+Best Regards,
+Huanxia
